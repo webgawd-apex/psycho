@@ -545,7 +545,8 @@
         }
 
         .project-image {
-            height: 250px;
+            height: 550px;
+            padding: 10px;
             overflow: hidden;
             position: relative;
         }
@@ -573,7 +574,7 @@
         }
 
         .project-info p {
-            margin-bottom: 1.5rem;
+            margin-bottom: .5rem;
             color: #aaa;
         }
 
@@ -824,6 +825,7 @@
             position: relative;
             overflow: hidden;
         }
+        
 
         .social-item::before {
             content: '';
